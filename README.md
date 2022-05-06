@@ -2,4 +2,5 @@
 O Bootcamp Carrefour Web Developer tem como foco principal formar profissionais developers nas tecnologias JavaScript, ReactJS, JAVA e Springboot.
 
 ### Links úteis e anotações:
-[sintáxe básica de markdown](https://www.markdownguide.org/basic-syntax/)
+[sintáxe básica de markdown](https://www.markdownguide.org/basic-syntax/)  
+[crachás para github](https://dev.to/envoy_/150-badges-for-github-pnk)
