@@ -1,6 +1,6 @@
 @import url('reset.css');
 @import url('global.css');
-@import url('components/_navigator.css');
+@import url('../components/_navigator.css');
 
 .s-wrapper {
   display: flex;
